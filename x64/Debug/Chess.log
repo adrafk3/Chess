@@ -1,0 +1,19 @@
+﻿  moc Afficher.h
+  moc Caree.h
+  moc Jeux.h
+  bibliotheque_cours.cpp
+  verification_allocation.cpp
+  gtest-all.cc
+  main.cpp
+  Piece.cpp
+  Table.cpp
+  Test.cpp
+  Afficher.cpp
+C:\Users\Adam\OneDrive\Bureau\INF1015\Qt chess maine tp06\include\CodeCoverage_bugfix.h : warning : Il vous manque le fichier CodeCoverage.h de Visual Studio Enterprise ou Preview, avez vous la version Community?
+  Caree.cpp
+  Jeux.cpp
+  qrc_Afficher.cpp
+  moc_Afficher.cpp
+  moc_Caree.cpp
+  moc_Jeux.cpp
+  Chess.vcxproj -> C:\Users\Adam\OneDrive\Bureau\INF1015\Qt chess maine tp06\x64\Debug\Chess.exe
